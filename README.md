@@ -2,7 +2,7 @@
 
 **IT outsourcing & software development partner.** We design, build and ship web apps, mobile apps and AI automation for businesses worldwide, from idea to deployment and beyond.
 
-🌐 [yaksera.com](https://yaksera.com) · ✉️ [contact@yaksera.com](mailto:contact@yaksera.com) · [LinkedIn](https://www.linkedin.com/in/yaksera) · [Instagram](https://www.instagram.com/yakserasolutions) · [Facebook](https://www.facebook.com/share/16qwURL1if/)
+🌐 [yaksera.com](https://yaksera.com) · ✉️ [contact@yaksera.com](mailto:contact@yaksera.com) · [LinkedIn](https://www.linkedin.com/company/yaksera-solutions) · [Instagram](https://www.instagram.com/yakserasolutions) · [Facebook](https://www.facebook.com/share/16qwURL1if/)
 
 ---
 
