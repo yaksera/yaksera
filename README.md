@@ -34,6 +34,18 @@
 | [**Elite Fitness**](https://github.com/yaksera/elite-fitness): yoga studio site with a WebGL scene | [demo](https://elite-fitness-plum.vercel.app) | Next.js · Three.js · GSAP |
 | [**Nimbu Paani**](https://github.com/yaksera/nimbupani): art-directed product story | [demo](https://nimbupani-green.vercel.app) | Next.js · GSAP · R3F |
 
+### 🔒 Private & client work
+
+Much of our work is under NDA or not public yet, so the code stays private. Summaries are below, and **walkthroughs and code reviews are available on request** under NDA.
+
+| Project | What it is | Stack | Status |
+| --- | --- | --- | --- |
+| **Himalayan Woods** | Full-stack commerce platform for handcrafted Himalayan furniture: storefront, cart, location-aware delivery pricing, checkout, plus admin dashboards for catalog, inventory, orders, payments and audit history | FastAPI · PostgreSQL · SQLAlchemy (async) · Alembic · JWT + Argon2 · Docker · Next.js | Backend complete with 170+ automated tests; frontend in progress |
+| **Caloriexe** | AI calorie and nutrition tracker: guided onboarding, personalised plans and targets, meal logging with food photos, and a Gemini-powered nutrition assistant | Next.js · FastAPI · PostgreSQL · Alembic · Google Gemini · Google sign-in · Cloudinary · Recharts | In development |
+| **Yakwoods** | Storefront API for a wood-products brand | FastAPI · Python | In development |
+| **RAG Chatbot** | Private document Q&A that runs fully on local models, with an evaluation suite to measure answer quality | FastAPI · Ollama · sentence-transformers · FAISS / Chroma | Prototype |
+| **Vision-to-Speech (Nepali)** | Detects objects in a photo and announces them aloud in Nepali, an accessibility prototype | YOLO11 · Python · Google Translate · gTTS | Prototype |
+
 ### 🛠️ Our stack
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Three.js / React Three Fiber · Framer Motion<br>
