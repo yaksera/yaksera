@@ -1,13 +1,21 @@
-# Hi, I'm Suman Yonjan 👋
+# Yaksera Solutions Pvt. Ltd.
 
-Full-stack developer building **AI agent systems** and **animated, pixel-accurate websites**.
-I take a product from Figma or an idea to a deployed app: Next.js on the front, Python (Django / FastAPI) on the back.
+**IT outsourcing & software development partner.** We design, build and ship web apps, mobile apps and AI automation for businesses worldwide, from idea to deployment and beyond.
 
-🌐 **Portfolio:** [portfolio102-ten.vercel.app](https://portfolio102-ten.vercel.app)
+🌐 [yaksera.com](https://yaksera.com) · ✉️ [contact@yaksera.com](mailto:contact@yaksera.com) · [LinkedIn](https://www.linkedin.com/in/yaksera) · [Instagram](https://www.instagram.com/yakserasolutions) · [Facebook](https://www.facebook.com/share/16qwURL1if/)
 
 ---
 
-### 🤖 AI & SaaS
+### What we do
+
+| | |
+| --- | --- |
+| 🌐 **Web Development** | Scalable, secure, fast web applications on modern stacks |
+| 📱 **Mobile Apps** | High-performance iOS and Android experiences |
+| 🤖 **AI Automation** | Agents and workflows that cut repetitive work and speed up operations |
+| 🎨 **UI/UX Design** | Pixel-perfect, user-centered interfaces, from Figma to production |
+
+### 🤖 AI & SaaS products
 
 | Project | What it does | Stack |
 | --- | --- | --- |
@@ -26,9 +34,14 @@ I take a product from Figma or an idea to a deployed app: Next.js on the front, 
 | [**Elite Fitness**](https://github.com/yaksera/elite-fitness): yoga studio site with a WebGL scene | [demo](https://elite-fitness-plum.vercel.app) | Next.js · Three.js · GSAP |
 | [**Nimbu Paani**](https://github.com/yaksera/nimbupani): art-directed product story | [demo](https://nimbupani-green.vercel.app) | Next.js · GSAP · R3F |
 
-### 🛠️ Tech I use
+### 🛠️ Our stack
 
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Three.js / React Three Fiber · Framer Motion<br>
-**Backend:** Python · Django & Django REST Framework · FastAPI · PostgreSQL / SQLite · Redis<br>
+**Mobile:** Flutter<br>
+**Backend:** Python · Django & Django REST Framework · FastAPI · PostgreSQL · Redis<br>
 **AI & automation:** LLM agents · RAG · n8n<br>
-**Tooling:** Git · Docker · Vercel · Render
+**Delivery:** Git · Docker · Vercel · Render
+
+---
+
+**Have a project in mind?** [Book a free discovery call](https://yaksera.com) or email [contact@yaksera.com](mailto:contact@yaksera.com).
