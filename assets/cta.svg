@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Have a project in mind? Let's build it together. contact@yaksera.com">
+  <title>Have a project in mind? Let's build it together.</title>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#061440"/>
+      <stop offset="1" stop-color="#020820"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="36"/></filter>
+    <clipPath id="frame"><rect width="1200" height="180" rx="18"/></clipPath>
+    <clipPath id="btn"><rect x="860" y="62" width="268" height="56" rx="28"/></clipPath>
+    <style>
+      text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+      .orb { animation: drift 12s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+      @keyframes drift { from { transform: translateX(0) scale(1); } to { transform: translateX(260px) scale(1.2); } }
+      .sheen { animation: sheen 3.2s ease-in-out infinite; }
+      @keyframes sheen { 0% { transform: translateX(-200px); } 60%, 100% { transform: translateX(340px); } }
+      .ring { transform-box: fill-box; transform-origin: center; animation: ring 2.4s ease-out infinite; }
+      @keyframes ring { from { opacity: 0.6; transform: scale(1); } to { opacity: 0; transform: scale(1.18, 1.5); } }
+      .arrow { animation: nudge 1.6s ease-in-out infinite; }
+      @keyframes nudge { 50% { transform: translateX(6px); } }
+      @media (prefers-reduced-motion: reduce) { .orb, .sheen, .ring, .arrow { animation: none; } .sheen { opacity: 0; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="180" fill="url(#bg)"/>
+    <circle class="orb" cx="200" cy="140" r="120" fill="#e8313d" opacity="0.25" filter="url(#blur)"/>
+    <text x="72" y="82" fill="#ffffff" font-size="34" font-weight="800">Have a project in mind?</text>
+    <text x="72" y="120" fill="#c9d4f2" font-size="19">Let's build it together · contact@yaksera.com</text>
+
+    <rect class="ring" x="860" y="62" width="268" height="56" rx="28" fill="none" stroke="#e8313d" stroke-width="2"/>
+    <rect x="860" y="62" width="268" height="56" rx="28" fill="#e8313d"/>
+    <g clip-path="url(#btn)"><rect class="sheen" x="860" y="62" width="120" height="56" fill="url(#sheen)"/></g>
+    <text x="900" y="97" fill="#ffffff" font-size="19" font-weight="700">Start a project</text>
+    <g class="arrow"><path d="M1068 90h26m-9-9 9 9-9 9" fill="none" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+  </g>
+</svg>

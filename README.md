@@ -1,10 +1,15 @@
-# Yaksera Solutions Pvt. Ltd.
+<a href="https://yaksera.com">
+  <img src="assets/banner.svg" alt="Yaksera Solutions: IT outsourcing and software development. We build web applications, mobile apps, AI automation and products from Figma to launch." width="100%">
+</a>
 
-**IT outsourcing & software development partner.** We design, build and ship web apps, mobile apps and AI automation for businesses worldwide, from idea to deployment and beyond.
+<p align="center">
+  <a href="https://yaksera.com"><img src="https://img.shields.io/badge/Website-yaksera.com-e8313d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/yaksera-solutions"><img src="https://img.shields.io/badge/LinkedIn-Yaksera%20Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@yaksera.com"><img src="https://img.shields.io/badge/Email-contact%40yaksera.com-061440?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/yakserasolutions"><img src="https://img.shields.io/badge/Instagram-yakserasolutions-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-🌐 [yaksera.com](https://yaksera.com) · ✉️ [contact@yaksera.com](mailto:contact@yaksera.com) · [LinkedIn](https://www.linkedin.com/company/yaksera-solutions) · [Instagram](https://www.instagram.com/yakserasolutions) · [Facebook](https://www.facebook.com/share/16qwURL1if/)
-
----
+**Yaksera Solutions Pvt. Ltd.** is an IT outsourcing and software development partner. We design, build and ship web apps, mobile apps and AI automation for businesses worldwide, from idea to deployment and beyond.
 
 ### What we do
 
@@ -48,12 +53,23 @@ Much of our work is under NDA or not public yet, so the code stays private. Summ
 
 ### 🛠️ Our stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,threejs,flutter,python,django,fastapi,postgres,redis,docker,vercel,git&perline=14" alt="Next.js, React, TypeScript, Tailwind, Three.js, Flutter, Python, Django, FastAPI, PostgreSQL, Redis, Docker, Vercel, Git">
+</p>
+
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS · GSAP · Three.js / React Three Fiber · Framer Motion<br>
 **Mobile:** Flutter<br>
 **Backend:** Python · Django & Django REST Framework · FastAPI · PostgreSQL · Redis<br>
 **AI & automation:** LLM agents · RAG · n8n<br>
 **Delivery:** Git · Docker · Vercel · Render
 
----
+### 🐍 Always shipping
 
-**Have a project in mind?** [Book a free discovery call](https://yaksera.com) or email [contact@yaksera.com](mailto:contact@yaksera.com).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yaksera/yaksera/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/yaksera/yaksera/output/snake-light.svg" alt="Animated contribution graph" width="100%">
+</picture>
+
+<a href="mailto:contact@yaksera.com">
+  <img src="assets/cta.svg" alt="Have a project in mind? Let's build it together. Email contact@yaksera.com" width="100%">
+</a>
