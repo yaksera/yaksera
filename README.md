@@ -27,6 +27,7 @@
 | [**StoreOps AI**](https://github.com/yaksera/storeops-ai) | Real-time AI operations team for Shopify stores. Agents handle orders, inventory, carts and support, and route risky actions to the merchant for approval. | FastAPI · Next.js · Redis · SQLAlchemy · Docker |
 | [**Prospectra AI**](https://github.com/yaksera/prospectra-ai) | Seven AI agents that find leads, write and review outreach, and book calls, with every step streamed live. | FastAPI · Next.js · n8n |
 | [**OmniInbox**](https://github.com/yaksera/omni-inbox) | One inbox for WhatsApp, Instagram, Messenger, TikTok, Telegram, Discord and email. Multi-tenant SaaS. | Django REST · Next.js · JWT |
+| [**TubeSift**](https://github.com/yaksera/Tubesift) | YouTube channel scraper with Latest and Popular tabs. Collects titles, view counts and links in resumable batches, so each scrape continues where the last one stopped. | FastAPI · Next.js · yt-dlp · SQLite |
 
 ### ✨ Websites & motion
 
